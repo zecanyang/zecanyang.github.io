@@ -97,7 +97,6 @@ const Experience: React.FC = () => {
                           <p className="text-xs text-gray-600 leading-snug mt-0.5">
                             {[
                               project.sponsorCn || project.sponsor,
-                              project.grantNo,
                               project.amount,
                             ].filter(Boolean).join(' · ')}
                           </p>

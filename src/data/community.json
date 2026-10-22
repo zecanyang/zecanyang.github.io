@@ -1,0 +1,41 @@
+{
+  "academicService": {
+    "executiveChair": [
+      "12th-DependSys (2026)"
+    ],
+    "organizationChair": [
+      "ChineseCSCW 2026 (21st CCF Conference on Computer Supported Cooperative Work and Social Computing)"
+    ],
+    "publicationChair": [
+      "21st-ISPA (2023)",
+      "21st-TrustCom (2022)"
+    ],
+    "publicityChair": [
+      "15th-iThings (2022)",
+      "23rd-HPCC (2021)"
+    ]
+  },
+  "reviewService": {
+    "journals": [
+      "IEEE Transactions on Image Processing (CCF A)",
+      "IEEE/ACM Transactions on Networking (CCF A)",
+      "IEEE Transactions on Intelligent Transportation Systems (CCF B)",
+      "International Journal of Human-Computer Interaction (CCF B)",
+      "IEEE Transactions on Wireless Communications",
+      "IEEE Transactions on Sustainable Computing",
+      "IEEE Internet of Things Journal (CCF C)",
+      "Big Data Mining and Analytics",
+      "The Journal of Supercomputing"
+    ],
+    "conferences": [
+      "ICML (CCF A)",
+      "NeurIPS (CCF A)",
+      "AAAI (CCF A)",
+      "ICDM (CCF B)",
+      "HPCC (CCF C)",
+      "ISPA (CCF C)",
+      "TrustCom (CCF C)",
+      "UIC (CCF C)"
+    ]
+  }
+}

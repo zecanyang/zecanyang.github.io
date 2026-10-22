@@ -1,0 +1,13 @@
+{
+  "name": "Zecan Yang",
+  "nameCn": "杨泽灿",
+  "position": "Associate Professor",
+  "institution": "Zhengzhou University",
+  "location": "Zhengzhou, China",
+  "email": "yangzecan@zzu.edu.cn",
+  "googleScholar": "https://scholar.google.com/citations?user=w7VwWN8AAAAJ&hl=en",
+  "github": "https://github.com/zecanyang",
+  "linkedin": "",
+  "avatar": "/zecanImg.jpg",
+  "bio": "I am a computer science researcher at the School of Computer Science and Artificial Intelligence, Zhengzhou University.\n\nMy research develops **Robust, Interpretable, and Efficient learning methods for Complex High-dimensional Data Analysis**. I combine probabilistic modeling and Bayesian learning with tensor methods to discover structured representations, handle incomplete and noisy observations, and support reliable inference.\n\nApplications span computer vision, intelligent transportation, smart healthcare, and IoT networks, with a broader vision of cyber-physical-social systems intelligence."
+}

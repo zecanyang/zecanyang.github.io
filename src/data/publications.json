@@ -1,0 +1,594 @@
+[
+  {
+    "title": "Bayesian Tensor Interpolative Decomposition for IoT-based Healthcare Data Multi-way Analytics",
+    "authors": [
+      "Zecan Yang*†",
+      "Huaimin Wang*",
+      "Laurence T. Yang",
+      "Honglu Zhao",
+      "Songhe Yuan",
+      "Xiaoyang Lu"
+    ],
+    "venue": "IEEE Internet of Things Journal",
+    "year": 2026,
+    "type": "journal",
+    "paper": "https://ieeexplore.ieee.org/document/11390066",
+    "highlight": true,
+    "note": "Co-first & Corresponding Author",
+    "tags": [
+      "CCF C期刊",
+      "中科院二区",
+      "JCR Q1",
+      "IF 8.7"
+    ],
+    "category": "first-author",
+    "selected": false,
+    "topics": [
+      "Bayesian & Probabilistic Learning",
+      "Tensor Methods"
+    ]
+  },
+  {
+    "title": "Bayesian High-order Tensor Completion Model with its Applications in Social Intelligence",
+    "authors": [
+      "Zecan Yang",
+      "Honglu Zhao",
+      "Laurence T. Yang",
+      "Xin Nie",
+      "Shunli Zhang",
+      "Bahati Alam Sanga"
+    ],
+    "venue": "IEEE Transactions on Computational Social Systems",
+    "year": 2025,
+    "type": "journal",
+    "paper": "https://ieeexplore.ieee.org/document/11344768",
+    "highlight": false,
+    "tags": [
+      "CCF C期刊",
+      "中科院三区",
+      "JCR Q1",
+      "IF 4.6"
+    ],
+    "category": "first-author",
+    "selected": false,
+    "topics": [
+      "Bayesian & Probabilistic Learning",
+      "Tensor Methods"
+    ]
+  },
+  {
+    "title": "Collaborative Bayesian Nonnegative Tensor Factorization for Data Completion in CPSS",
+    "authors": [
+      "Zecan Yang",
+      "Changlong Li",
+      "Laurence T. Yang",
+      "Honglu Zhao",
+      "Xin Nie"
+    ],
+    "venue": "IEEE Transactions on Computational Social Systems",
+    "year": 2025,
+    "type": "journal",
+    "paper": "https://ieeexplore.ieee.org/document/11201879",
+    "highlight": false,
+    "tags": [
+      "CCF C期刊",
+      "中科院三区",
+      "JCR Q1",
+      "IF 4.6"
+    ],
+    "category": "first-author",
+    "selected": false,
+    "topics": [
+      "Bayesian & Probabilistic Learning",
+      "Tensor Methods"
+    ]
+  },
+  {
+    "title": "Collaborative Bayesian Tensor Factorization-based Reliable Traffic Speed Data Prediction in T-CPS",
+    "authors": [
+      "Zecan Yang",
+      "Laurence T. Yang",
+      "Changlong Li",
+      "Linsong Shan",
+      "Honglu Zhao",
+      "Xin Nie"
+    ],
+    "venue": "IEEE Transactions on Intelligent Transportation Systems",
+    "year": 2025,
+    "type": "journal",
+    "paper": "https://ieeexplore.ieee.org/document/10992263",
+    "highlight": true,
+    "tags": [
+      "CCF B期刊",
+      "中科院一区",
+      "JCR Q1",
+      "IF 8.4"
+    ],
+    "category": "first-author",
+    "selected": true,
+    "topics": [
+      "Bayesian & Probabilistic Learning",
+      "Tensor Methods",
+      "Spatio-Temporal & Network Data Analysis"
+    ],
+    "selectedOrder": 1
+  },
+  {
+    "title": "Bayesian Nonnegative Tensor Completion with Automatic Rank Determination",
+    "authors": [
+      "Zecan Yang",
+      "Laurence T. Yang",
+      "Huaimin Wang",
+      "Honglu Zhao",
+      "Debin Liu"
+    ],
+    "venue": "IEEE Transactions on Image Processing",
+    "year": 2025,
+    "type": "journal",
+    "paper": "https://ieeexplore.ieee.org/document/10918321",
+    "code": "https://github.com/zecanyang/BNTC",
+    "highlight": true,
+    "tags": [
+      "CCF A期刊",
+      "中科院一区TOP",
+      "JCR Q1",
+      "IF 13.7"
+    ],
+    "category": "first-author",
+    "selected": true,
+    "summary": "A Bayesian approach to nonnegative tensor completion with automatic rank determination for structured high-dimensional data.",
+    "topics": [
+      "Bayesian & Probabilistic Learning",
+      "Tensor Methods"
+    ],
+    "selectedOrder": 0
+  },
+  {
+    "title": "Differentially Private Federated Tensor Completion for Cloud-Edge Collaborative AIoT Data Prediction",
+    "authors": [
+      "Zecan Yang*",
+      "Botao Xiong*",
+      "Kai Chen",
+      "Laurence T. Yang",
+      "Xianjun Deng",
+      "Chenlu Zhu",
+      "Yuanyuan He"
+    ],
+    "venue": "IEEE Internet of Things Journal",
+    "year": 2024,
+    "type": "journal",
+    "paper": "https://ieeexplore.ieee.org/document/10247527",
+    "highlight": false,
+    "note": "Co-first Author",
+    "tags": [
+      "CCF C期刊",
+      "中科院一区TOP",
+      "JCR Q1",
+      "IF 8.2"
+    ],
+    "category": "first-author",
+    "selected": false,
+    "topics": [
+      "Tensor Methods",
+      "Federated Learning & Privacy-Preserving"
+    ]
+  },
+  {
+    "title": "Transforms-based Bayesian Tensor Completion Method for Network Traffic Measurement Data Recovery",
+    "authors": [
+      "Zecan Yang",
+      "Laurence T. Yang",
+      "Lingzhi Yi",
+      "Xianjun Deng",
+      "Chenlu Zhu",
+      "Yiheng Ruan"
+    ],
+    "venue": "IEEE Transactions on Network Science and Engineering",
+    "year": 2024,
+    "type": "journal",
+    "paper": "https://ieeexplore.ieee.org/document/10293199",
+    "highlight": false,
+    "tags": [
+      "中科院二区",
+      "JCR Q1",
+      "IF 6.7"
+    ],
+    "category": "first-author",
+    "selected": false,
+    "topics": [
+      "Bayesian & Probabilistic Learning",
+      "Tensor Methods",
+      "Spatio-Temporal & Network Data Analysis"
+    ]
+  },
+  {
+    "title": "Bayesian Tensor Completion for Network Traffic Data Prediction",
+    "authors": [
+      "Zecan Yang",
+      "Laurence T. Yang",
+      "Huaimin Wang",
+      "Bocheng Ren",
+      "Xiangli Yang"
+    ],
+    "venue": "IEEE Network",
+    "year": 2023,
+    "type": "journal",
+    "paper": "https://ieeexplore.ieee.org/document/10061326",
+    "highlight": false,
+    "tags": [
+      "中科院二区",
+      "JCR Q1",
+      "IF 9.3"
+    ],
+    "category": "first-author",
+    "selected": false,
+    "topics": [
+      "Bayesian & Probabilistic Learning",
+      "Tensor Methods",
+      "Spatio-Temporal & Network Data Analysis"
+    ]
+  },
+  {
+    "title": "Bayesian Robust Fully-Connected Tensor Network Decomposition for Visual Data Denoising",
+    "authors": [
+      "Changlong Li",
+      "Zecan Yang†",
+      "Laurence T. Yang",
+      "Linsong Shan",
+      "Honglu Zhao"
+    ],
+    "venue": "IEEE Transactions on Image Processing",
+    "year": 2026,
+    "type": "journal",
+    "paper": "https://ieeexplore.ieee.org/document/11692469",
+    "code": "https://github.com/hustlcl/BRFCTN",
+    "highlight": true,
+    "note": "Corresponding Author",
+    "tags": [
+      "CCF A期刊",
+      "中科院一区TOP",
+      "IF 15.3"
+    ],
+    "category": "corresponding-author",
+    "selected": true,
+    "topics": [
+      "Bayesian & Probabilistic Learning",
+      "Tensor Methods",
+      "Computer Vision & Multimodal Learning"
+    ],
+    "selectedOrder": 3
+  },
+  {
+    "title": "Adaptive Spatio-Temporal Graph Network with Tensor Enhancement for Edge AI-Empowered Traffic Flow Forecasting",
+    "authors": [
+      "Honglu Zhao",
+      "Lei Yang",
+      "Laurence T. Yang",
+      "Linsong Shan",
+      "Yixuan Geng",
+      "Zecan Yang†"
+    ],
+    "venue": "IEEE Transactions on Consumer Electronics",
+    "year": 2026,
+    "type": "journal",
+    "paper": "https://ieeexplore.ieee.org/document/11563553",
+    "highlight": false,
+    "note": "Corresponding Author",
+    "tags": [
+      "中科院二区TOP",
+      "IF 9.9"
+    ],
+    "category": "corresponding-author",
+    "selected": false,
+    "summary": "Tensor-enhanced spatio-temporal graph learning for traffic forecasting in edge AI settings.",
+    "topics": [
+      "Tensor Methods",
+      "Spatio-Temporal & Network Data Analysis"
+    ]
+  },
+  {
+    "title": "Bayesian Fully-Connected Tensor Network for Hyperspectral-Multispectral Image Fusion",
+    "authors": [
+      "Linsong Shan",
+      "Zecan Yang†",
+      "Laurence T. Yang",
+      "Honglu Zhao",
+      "Xin Nie"
+    ],
+    "venue": "IEEE Transactions on Image Processing",
+    "year": 2026,
+    "type": "journal",
+    "paper": "https://ieeexplore.ieee.org/document/11540397",
+    "code": "https://github.com/LinsongShan/BFCTN",
+    "highlight": true,
+    "note": "Corresponding Author",
+    "tags": [
+      "CCF A期刊",
+      "中科院一区TOP",
+      "IF 15.3"
+    ],
+    "category": "corresponding-author",
+    "selected": false,
+    "summary": "Bayesian fully-connected tensor modeling for the fusion of hyperspectral and multispectral images.",
+    "topics": [
+      "Bayesian & Probabilistic Learning",
+      "Tensor Methods",
+      "Computer Vision & Multimodal Learning"
+    ]
+  },
+  {
+    "title": "T-Edit: Triple-Branch Diffusion Anchoring for Consistent Editing",
+    "authors": [
+      "Linsong Shan",
+      "Laurence T. Yang",
+      "Zecan Yang†",
+      "Shijie Lian",
+      "Shijie Lv",
+      "Qilin Yang"
+    ],
+    "venue": "International Conference on Machine Learning (ICML)",
+    "year": 2026,
+    "type": "conference",
+    "paper": "https://icml.cc/virtual/2026/poster/64070",
+    "code": "https://github.com/LinsongShan/T-Edit",
+    "tags": [
+      "CCF A会议"
+    ],
+    "highlight": false,
+    "category": "corresponding-author",
+    "selected": false,
+    "topics": [
+      "Computer Vision & Multimodal Learning"
+    ]
+  },
+  {
+    "title": "LieWarper: Geometry-Aware Motion Transfer via Lie Algebra",
+    "authors": [
+      "Linsong Shan",
+      "Laurence T. Yang",
+      "Zecan Yang†",
+      "Fukai Guo",
+      "Honglu Zhao",
+      "Yixuan Geng"
+    ],
+    "venue": "International Conference on Machine Learning (ICML)",
+    "year": 2026,
+    "type": "conference",
+    "paper": "https://icml.cc/virtual/2026/poster/62336",
+    "code": "https://github.com/LinsongShan/LieWarper",
+    "tags": [
+      "CCF A会议"
+    ],
+    "highlight": false,
+    "category": "corresponding-author",
+    "selected": true,
+    "topics": [
+      "Computer Vision & Multimodal Learning"
+    ],
+    "selectedOrder": 2
+  },
+  {
+    "title": "Bayesian Federated Learning with Personalized Parameters for Cloud-Edge Collaboration",
+    "authors": [
+      "Yunsheng Zhang",
+      "Yiheng Ruan",
+      "Laurence T. Yang",
+      "Honglu Zhao",
+      "Xianjun Deng",
+      "Zecan Yang†"
+    ],
+    "venue": "IEEE Transactions on Cloud Computing",
+    "year": 2026,
+    "type": "journal",
+    "paper": "https://ieeexplore.ieee.org/document/11481775",
+    "highlight": false,
+    "note": "Corresponding Author",
+    "tags": [
+      "CCF B期刊",
+      "中科院二区",
+      "JCR Q1",
+      "IF 5.3"
+    ],
+    "category": "corresponding-author",
+    "selected": true,
+    "summary": "Personalized Bayesian federated modeling for collaborative learning across cloud and edge environments.",
+    "topics": [
+      "Bayesian & Probabilistic Learning",
+      "Federated Learning & Privacy-Preserving"
+    ],
+    "selectedOrder": 4
+  },
+  {
+    "title": "Sparse Bayesian Tensor Completion for Data Recovery in Intelligent IoT Systems",
+    "authors": [
+      "Honglu Zhao",
+      "Laurence T. Yang",
+      "Zecan Yang†",
+      "Debin Liu",
+      "Xin Nie",
+      "Bocheng Ren"
+    ],
+    "venue": "IEEE Internet of Things Journal",
+    "year": 2024,
+    "type": "journal",
+    "paper": "https://ieeexplore.ieee.org/document/10477276",
+    "highlight": false,
+    "note": "Corresponding Author",
+    "tags": [
+      "CCF C期刊",
+      "中科院一区TOP",
+      "JCR Q1",
+      "IF 8.2"
+    ],
+    "category": "corresponding-author",
+    "selected": false,
+    "topics": [
+      "Bayesian & Probabilistic Learning",
+      "Tensor Methods"
+    ]
+  },
+  {
+    "title": "Based on Tensor Core Sparse Kernels Accelerating Deep Neural Networks",
+    "authors": [
+      "Shijie Lv",
+      "Debin Liu",
+      "Laurence T. Yang",
+      "Xiaosong Peng",
+      "Ruonan Zhao",
+      "Zecan Yang",
+      "Jun Feng"
+    ],
+    "venue": "IEEE Transactions on Parallel and Distributed Systems",
+    "year": 2026,
+    "type": "journal",
+    "paper": "https://ieeexplore.ieee.org/document/11269666",
+    "highlight": false,
+    "note": "Co-first Author",
+    "tags": [
+      "CCF A期刊"
+    ],
+    "category": "co-author",
+    "selected": false,
+    "topics": [
+      "Tensor Methods"
+    ]
+  },
+  {
+    "title": "A Scalable Tensor-Based MDTW Approach for Multi-Modal Time Series Patterns Clustering",
+    "authors": [
+      "Bahati Alam Sanga",
+      "Laurence T. Yang",
+      "Shunli Zhang",
+      "Zecan Yang",
+      "Nicholaus Gati"
+    ],
+    "venue": "Journal of Parallel and Distributed Computing",
+    "year": 2025,
+    "type": "journal",
+    "paper": "https://www.sciencedirect.com/science/article/pii/S0743731525001406",
+    "highlight": false,
+    "category": "co-author",
+    "selected": false,
+    "topics": [
+      "Tensor Methods",
+      "Spatio-Temporal & Network Data Analysis"
+    ]
+  },
+  {
+    "title": "Tensor-Based Efficient Federated Reinforcement Learning for Cyber-Physical-Social Intelligence",
+    "authors": [
+      "Xin Nie",
+      "Laurence T. Yang",
+      "Fulan Fan",
+      "Zecan Yang"
+    ],
+    "venue": "Big Data Mining and Analytics",
+    "year": 2025,
+    "type": "journal",
+    "paper": "https://ieeexplore.ieee.org/document/11002448",
+    "tags": [
+      "中科院一区"
+    ],
+    "highlight": false,
+    "category": "co-author",
+    "selected": false,
+    "topics": [
+      "Tensor Methods",
+      "Federated Learning & Privacy-Preserving"
+    ]
+  },
+  {
+    "title": "Tensor-empowered Incomplete Multimodal Learning with Modality Reconstruction for Edge Intelligence",
+    "authors": [
+      "Xin Nie",
+      "Laurence T. Yang",
+      "Zhe Li",
+      "Fulan Fan",
+      "Zecan Yang"
+    ],
+    "venue": "ACM Transactions on Multimedia Computing Communications and Applications",
+    "year": 2025,
+    "type": "journal",
+    "paper": "https://dl.acm.org/doi/10.1145/3712593",
+    "tags": [
+      "CCF B期刊"
+    ],
+    "highlight": false,
+    "category": "co-author",
+    "selected": false,
+    "topics": [
+      "Tensor Methods",
+      "Computer Vision & Multimodal Learning"
+    ]
+  },
+  {
+    "title": "Interpretable Multimodal Tucker Fusion Model with Information Filtering for Multimodal Sentiment Analysis",
+    "authors": [
+      "Xin Nie",
+      "Laurence T. Yang",
+      "Zhe Li",
+      "Xianjun Deng",
+      "Fulan Fan",
+      "Zecan Yang"
+    ],
+    "venue": "IEEE Transactions on Computational Social Systems",
+    "year": 2025,
+    "type": "journal",
+    "paper": "https://ieeexplore.ieee.org/document/10813576",
+    "highlight": false,
+    "category": "co-author",
+    "selected": false,
+    "topics": [
+      "Tensor Methods",
+      "Computer Vision & Multimodal Learning"
+    ]
+  },
+  {
+    "title": "Zero-shot Recognition for Healthcare Social Networks via Tensor-based Vision-semantic Manifold Alignment",
+    "authors": [
+      "Bocheng Ren",
+      "Yuanyuan Yi",
+      "Xin Nie",
+      "Zecan Yang",
+      "Laurence T. Yang",
+      "Jun Feng"
+    ],
+    "venue": "IEEE Transactions on Computational Social Systems",
+    "year": 2024,
+    "type": "journal",
+    "paper": "https://ieeexplore.ieee.org/document/10990135",
+    "highlight": false,
+    "category": "co-author",
+    "selected": false,
+    "topics": [
+      "Tensor Methods",
+      "Computer Vision & Multimodal Learning"
+    ]
+  },
+  {
+    "title": "A Searchable Symmetric Encryption-Based Privacy Protection Scheme for Cloud-Assisted Mobile Crowdsourcing",
+    "authors": [
+      "Xuemei Fu",
+      "Laurence T. Yang",
+      "Jie Li",
+      "Xiangli Yang",
+      "Zecan Yang"
+    ],
+    "venue": "IEEE Internet of Things Journal",
+    "year": 2024,
+    "type": "journal",
+    "tags": [
+      "CCF C期刊",
+      "中科院一区TOP",
+      "JCR Q1",
+      "IF 8.2"
+    ],
+    "paper": "https://ieeexplore.ieee.org/document/10268322",
+    "highlight": false,
+    "category": "co-author",
+    "selected": false,
+    "topics": [
+      "Federated Learning & Privacy-Preserving"
+    ]
+  }
+]

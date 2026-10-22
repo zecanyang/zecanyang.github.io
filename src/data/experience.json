@@ -1,0 +1,30 @@
+[
+  {
+    "type": "work",
+    "title": "Associate Professor",
+    "institution": "Zhengzhou University",
+    "location": "Zhengzhou, China",
+    "startDate": "2025.07",
+    "endDate": "Present",
+    "description": "School of Computer Science and Artificial Intelligence"
+  },
+  {
+    "type": "education",
+    "title": "PhD in Computer Science",
+    "institution": "Huazhong University of Science and Technology",
+    "location": "Wuhan, China",
+    "startDate": "2020.09",
+    "endDate": "2025.06",
+    "description": "School of Computer Science and Technology",
+    "supervisor": "Prof. Laurence T. Yang"
+  },
+  {
+    "type": "education",
+    "title": "B.E. in Computer Science",
+    "institution": "Fujian Agriculture and Forestry University",
+    "location": "Fuzhou, China",
+    "startDate": "2016.09",
+    "endDate": "2020.06",
+    "description": "School of Computer and Information Sciences"
+  }
+]

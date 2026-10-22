@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Probabilistic & Bayesian Learning",
+    "description": "Modeling uncertainty and learning model complexity from data to support reliable inference and prediction.",
+    "priority": 1
+  },
+  {
+    "title": "Tensor Methods & Structured Representations",
+    "description": "Capturing high-order dependencies and low-rank structure for data completion, visual restoration, and multimodal fusion.",
+    "priority": 2
+  },
+  {
+    "title": "Robust & Efficient Learning",
+    "description": "Learning from missing, noisy, and corrupted observations while improving parameter efficiency and computational scalability.",
+    "priority": 3
+  },
+  {
+    "title": "Federated Learning & Privacy-Preserving",
+    "description": "Combining structured and probabilistic modeling for privacy-preserving collaboration and personalized learning across heterogeneous data sources.",
+    "priority": 4
+  }
+]

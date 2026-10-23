@@ -5,7 +5,8 @@ import Layout from '../components/Layout';
 import PublicationList from '../components/PublicationList';
 import personal from '../data/personal.json';
 import interests from '../data/research.json';
-import news from '../data/news.json';
+import NewsList from '../components/NewsList';
+import { sortedNews } from '../data/sortedNews';
 import publicationsData from '../data/publications.json';
 import { Publication } from '../types';
 
@@ -46,15 +47,11 @@ const Home: React.FC = () => (
     </section>
 
     <section className="mb-8" aria-labelledby="news-title">
-      <h2 id="news-title" className="text-2xl font-bold text-gray-900 mb-3">Latest News</h2>
-      <div className="divide-y divide-gray-100">
-        {news.map((item, index) => (
-          <div key={index} className="flex gap-3 py-1.5">
-            <time dateTime={item.date} className="shrink-0 w-16 text-xs font-medium text-gray-500 pt-0.5">{item.date}</time>
-            <p className="text-[13px] leading-snug text-gray-700">{item.content}</p>
-          </div>
-        ))}
+      <div className="flex flex-wrap items-baseline justify-between gap-3 mb-2">
+        <h2 id="news-title" className="text-2xl font-bold text-gray-900">Latest News</h2>
+        <Link to="/news" className="inline-flex items-center gap-1 text-sm font-medium text-blue-700">All news <ArrowUpRight className="w-4 h-4" /></Link>
       </div>
+      <NewsList items={sortedNews.slice(0, 5)} />
     </section>
 
     <section className="mb-8" aria-labelledby="selected-title">

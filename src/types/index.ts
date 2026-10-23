@@ -68,14 +68,3 @@ export interface ResearchInterest {
   description: string;
   priority: number;
 }
-
-export interface CommunityService {
-  academicService: {
-    publicationChair: string[];
-    publicityChair: string[];
-  };
-  reviewService: {
-    journals: string[];
-    conferences: string[];
-  };
-}

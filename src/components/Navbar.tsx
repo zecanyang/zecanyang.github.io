@@ -6,10 +6,11 @@ const Navbar: React.FC = () => {
   
   const navItems: { name: string; shortName?: string; path: string }[] = [
     { name: 'Home', path: '/' },
-    { name: 'Experience', path: '/experience' },
     { name: 'Publications', path: '/publications' },
-    { name: 'Honors & Awards', shortName: 'Awards', path: '/honors' },
+    { name: 'Experience', path: '/experience' },
     { name: 'Academic Service', shortName: 'Service', path: '/community-service' },
+    { name: 'Honors & Awards', shortName: 'Awards', path: '/honors' },
+    { name: 'News', path: '/news' },
   ];
 
   return (

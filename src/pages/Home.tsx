@@ -30,8 +30,8 @@ const Home: React.FC = () => (
     <section className="mb-8" aria-labelledby="research-title">
       <h2 id="research-title" className="text-2xl font-bold text-gray-900 mb-3">Research Overview</h2>
       <figure className="mb-4 w-full sm:w-[60%] mr-auto">
-        <a href="/research-overview-v3.png" target="_blank" rel="noopener noreferrer" aria-label="Open the research overview image at full size" className="block rounded-xl overflow-hidden border border-slate-200 focus-visible:outline-blue-600">
-          <img src="/research-overview-v3.png" alt="Research vision: robust, interpretable, and efficient learning through structured representation, probabilistic reasoning, and adaptive learning, empowering CPSS intelligence in computer vision, intelligent transportation, smart healthcare, and IoT networks." width="1672" height="941" className="block w-full h-auto" decoding="async" />
+        <a href="/research-vision-web-q99.webp" target="_blank" rel="noopener noreferrer" aria-label="Open the research overview image at full size" className="block rounded-xl overflow-hidden border border-slate-200 focus-visible:outline-blue-600">
+          <img src="/research-vision-web-q99.webp" alt="Research vision: robust, interpretable, and efficient learning through structured representation, probabilistic reasoning, and adaptive learning, empowering CPSS intelligence in computer vision, intelligent transportation, smart healthcare, and IoT networks." width="1672" height="941" className="block w-full h-auto" decoding="async" />
         </a>
       </figure>
       <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5">
